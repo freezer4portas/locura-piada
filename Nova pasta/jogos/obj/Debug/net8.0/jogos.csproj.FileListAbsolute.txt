@@ -1,0 +1,14 @@
+D:\Users\20241170150036\OneDrive - IFRN\jogos\bin\Debug\net8.0\jogos.exe
+D:\Users\20241170150036\OneDrive - IFRN\jogos\bin\Debug\net8.0\jogos.deps.json
+D:\Users\20241170150036\OneDrive - IFRN\jogos\bin\Debug\net8.0\jogos.runtimeconfig.json
+D:\Users\20241170150036\OneDrive - IFRN\jogos\bin\Debug\net8.0\jogos.dll
+D:\Users\20241170150036\OneDrive - IFRN\jogos\bin\Debug\net8.0\jogos.pdb
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\jogos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\jogos.AssemblyInfoInputs.cache
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\jogos.AssemblyInfo.cs
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\jogos.csproj.CoreCompileInputs.cache
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\jogos.dll
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\refint\jogos.dll
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\jogos.pdb
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\jogos.genruntimeconfig.cache
+D:\Users\20241170150036\OneDrive - IFRN\jogos\obj\Debug\net8.0\ref\jogos.dll
